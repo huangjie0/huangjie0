@@ -10,6 +10,7 @@ Web前端开发人员，目前在南京海颐软件科技公司构建Web应用�
 - 📫 关注我的Github账号: huangjie0
 ---------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangjie0&layout=compact&theme=tokyonight)
+<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 
 
 
