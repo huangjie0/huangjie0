@@ -11,7 +11,7 @@ Web前端开发人员，目前在南京海颐软件科技公司构建Web应用�
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangjie0&layout=compact&theme=tokyonight)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=huangjie0&theme=dracula)
+![Top Langs](https://github-readme-activity-graph.cyclic.app/graph?username=huangjie0&theme=dracula)
 
 
 
