@@ -10,7 +10,8 @@ Web前端开发人员，目前在南京海颐软件科技公司构建Web应用�
 - 📫 关注我的Github账号: huangjie0
 ---------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangjie0&layout=compact&theme=tokyonight)
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=huangjie0&theme=xcode" /> </div>
+![](https://github-readme-stats.vercel.app/api?username=huangjie0&show_icons=true&theme=dark&count_private=true)
+
 
 
 
